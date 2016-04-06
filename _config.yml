@@ -1,0 +1,28 @@
+name: The End Of Television
+favicon: null
+layout_spectrum: 0.5982917421497405
+typography_spectrum: 0.1264772741124034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.32573932060040534
+  lightness: 0.9353407912421972
+  saturation: 0.1481408739928156
+  rhythmicContrast: 0.08314017648808658
+purpose: []
